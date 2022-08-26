@@ -1,2 +1,5 @@
-ejercicio git
+Cambios de Lore xd
+
+Cras vehicula auctor lorem vitae semper. Nunc eget dui dui. Vestibulum congue tellus nisi, sit amet posuere odio cursus vel. Nam gravida et arcu quis imperdiet. Duis interdum dolor eget enim laoreet maximus. Phasellus vel orci dolor. Fusce gravida porta leo id sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec fringilla magna. Cras sollicitudin sodales interdum. Ut at quam vitae velit porttitor sodales. Quisque in ex at justo vulputate lacinia vel vel erat. Aliquam a ornare ante. Nullam vitae nisl at magna posuere convallis. Maecenas consequat magna non tortor porttitor, ultrices hendrerit quam volutpat. Vivamus nec neque commodo sapien placerat laoreet.
+
 
